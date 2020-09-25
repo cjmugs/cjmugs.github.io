@@ -10,7 +10,7 @@ body{
     
         background-image: url("city.jpg");
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: 1920px 1080px;
 }
 button{
     color: red;
