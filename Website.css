@@ -8,7 +8,9 @@ h1{
 }
 body{
     
-        background-color: whitesmoke;
+        background-image: url("city.jpg");
+        background-repeat: no-repeat;
+        background-size: 1200px;
 }
 button{
     color: red;
