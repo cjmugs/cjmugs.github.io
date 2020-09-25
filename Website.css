@@ -10,7 +10,7 @@ body{
     
         background-image: url("city.jpg");
         background-repeat: no-repeat;
-        background-size: 1200px;
+        background-size: 100% 100%;
 }
 button{
     color: red;
@@ -28,8 +28,8 @@ h4{
     flex-wrap:wrap;
 }
 #container > div{
-    background-color: tan;
+    background-color: lightgray;
     font-size: 20px;
     margin: 20px;
     padding: 20px;
-    width: 200px;
+    width: 300px;
