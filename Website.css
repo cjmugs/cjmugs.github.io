@@ -47,3 +47,15 @@ h4{
     padding: 20px;
     width: 300px;
 }
+img{
+    position: relative; left: 300px; bottom: 280px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+p1{
+    position: relative; left: 60px; top: -73px;
+}
+p2{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px;
+}
