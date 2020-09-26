@@ -45,7 +45,8 @@ h4{
     font-size: 20px;
     margin: 30px;
     padding: 20px;
-    width: 300px;
+    width: 200px;
+    position: relative; left: 120px;
 }
 p1{
     position: relative; left: 60px; top: -73px;
