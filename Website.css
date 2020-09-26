@@ -43,16 +43,9 @@ h4{
     border: 2px solid black;
     text-align: center;
     font-size: 20px;
-    margin: 20px;
+    margin: 30px;
     padding: 20px;
     width: 300px;
-}
-img{
-    position: relative; left: 300px; bottom: 280px;
-    border: 2px solid black;
-    border-radius: 5px;
-    display: flex;
-    flex-wrap:wrap;
 }
 p1{
     position: relative; left: 60px; top: -73px;
@@ -60,4 +53,8 @@ p1{
 p2{
     font-family: 'Courier New', Courier, monospace;
     margin: 50px;
+}
+p3{
+    position: relative; left: 330px; bottom: 300px;
+    color: black;
 }
