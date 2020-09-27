@@ -22,7 +22,7 @@ body{
     background-color: whitesmoke;
 }
 .btn:hover{
-    background-color: red;
+    background-color: springgreen;
 }
 #para1{
     color: whitesmoke;
@@ -37,4 +37,11 @@ body{
     font-size: 20px;
     text-align: center;
     position: relative; top: 160px;
+}
+#para3{
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: relative; top: 180px;
 }
