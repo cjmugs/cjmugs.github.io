@@ -6,7 +6,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 46px;
     text-align: center;
-    position: relative; top: 100px;
+    position: relative; top: 200px;
 }
 #about{
     color: whitesmoke;
@@ -14,4 +14,26 @@ body{
     font-size: 46px;
    text-align: center;
    position: relative; top: 100px;
+}
+.btn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: whitesmoke;
+}
+.btn:hover{
+    background-color: red;
+}
+#para1{
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: relative; top: 120px;
+}
+#para2{
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: relative; top: 160px;
 }
