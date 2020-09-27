@@ -5,34 +5,13 @@ body{
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 46px;
-    position: relative; left: auto; top: auto;
+    text-align: center;
+    position: relative; top: 100px;
 }
 #about{
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 46px;
-    position: relative; left: 350px; top: 100px;
-}
-#container{
-    display: flex;
-    flex-wrap:wrap;
-}
-#container > div{
-    background-color: whitesmoke;
-    font-size: 20px;
-    position: relative; left: auto; top: auto;
-    margin: 25px;
-    padding: 18px;
-    width: 180px;
-}
-.btn{
-    color: black;
-    border: solid 2px black;
-    border-radius: 5px;
-    padding: 14px;
-    position: relative; left: 30px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.btn:hover{
-    background-color: lightblue;
+   text-align: center;
+   position: relative; top: 100px;
 }
