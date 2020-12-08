@@ -8,50 +8,6 @@ body{
    text-align: center;
    position: relative; top: 100px;
 }
-.btn{
-    font-size: 46px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 5px;
-    color: black;
-    background-color: whitesmoke;
-}
-.btn:hover{
-    background-color: lightgray;
-    color: whitesmoke;
-    border-radius: 5px;
-}
-.btn2{
-    font-size: 16px;
-    border-radius: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 5px;
-    color: black;
-    background-color: whitesmoke;
-}
-.btn2:hover{
-    background-color: lightgray;
-    color: whitesmoke;
-    border-radius: 5px;
-}
-.btn3{
-    font-size: 16px;
-    text-align: center;
-    position: relative; top: 200px;
-    border-radius: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 5px;
-    font-size: 100px;
-    color: black;
-    background-color: whitesmoke;
-}
-.btn3:hover{
-    background-color: lightgray;
-    color: whitesmoke;
-    border-radius: 5px;
-}
-button{
-    border-radius: 5px;
-}
 #para1{
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
