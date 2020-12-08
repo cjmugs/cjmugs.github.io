@@ -1,40 +1,37 @@
 body{
-    background-color: black;
+    background-image: url("bg1.jpg");
+    background-blend-mode: 35%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #about{
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 46px;
-   text-align: center;
-   position: relative; top: 100px;
+    text-align: center;
+    position: relative; top: 100px;
 }
 #para1{
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: center;
     position: relative; top: 120px;
 }
 #para2{
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: center;
     position: relative; top: 160px;
 }
 #para3{
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: center;
     position: relative; top: 180px;
-}
-#para4{
-    color: whitesmoke;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    text-align: center;
-    position: relative; top: 200px;   
 }
 #me{
     float: right;
