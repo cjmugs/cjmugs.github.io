@@ -37,5 +37,8 @@ body{
     position: relative; top: 200px;   
 }
 #back{
-    position: relative; left: 800px; top: 0;
+    position: absolute; left: 650px; top: 5px;
+}
+#contact{
+    position: relative; left: 320px; top: 300px;
 }
