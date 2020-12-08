@@ -37,5 +37,5 @@ body{
     position: relative; top: 200px;   
 }
 #back{
-    position: relative; left: 800px;
+    position: relative; left: 800px; top: 0;
 }
