@@ -36,9 +36,39 @@ body{
     text-align: center;
     position: relative; top: 200px;   
 }
+#me{
+    float: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    transition-duration: 0.4s;
+}
+#me:hover{
+    background-color: rgb(236, 19, 19);
+}
 #back{
-    position: absolute; left: 650px; top: 5px;
+   float: right;
+   font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+   border: none;
+   border-radius: 5px;
+   background-color: white;
+   transition-duration: 0.4s;
+}
+#back:hover{
+    background-color: rgb(236, 19, 19);
 }
 #contact{
-    position: relative; left: 320px; top: 300px;
+    float: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    transition-duration: 0.4s;
+}
+#contact:hover{
+    background-color: rgb(236, 19, 19);
 }
