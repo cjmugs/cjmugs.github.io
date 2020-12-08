@@ -38,7 +38,8 @@ body{
 }
 .btn{
     border: none;
-    color: white;
+    color: black;
+    background-color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
