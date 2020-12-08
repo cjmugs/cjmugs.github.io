@@ -36,3 +36,6 @@ body{
     text-align: center;
     position: relative; top: 200px;   
 }
+.btn{
+    font-size: 80px;
+}
