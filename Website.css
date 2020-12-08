@@ -10,12 +10,8 @@ body{
 }
 .btn{
     font-size: 46px;
-    text-align: center;
-    position: relative; top: 200px;
-    border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 5px;
-    font-size: 100px;
     color: black;
     background-color: whitesmoke;
 }
