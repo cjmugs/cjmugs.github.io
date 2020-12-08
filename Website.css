@@ -38,6 +38,7 @@ body{
 }
 #btn{
     border: none;
+    border: 5px;
     color: black;
     background-color: white;
     padding: 15px 32px;
