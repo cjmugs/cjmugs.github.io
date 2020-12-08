@@ -57,6 +57,9 @@ button{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: center;
-    position: relative; top: 200px;
-    
+    position: relative; top: 200px;   
+}
+#button{
+    height: 50px;
+    width: 50px;
 }
