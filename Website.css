@@ -10,7 +10,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: center;
-    position: relative; top: 160px;
+    position: relative; top: 120px;
 }
 #para1:hover{
     color: black;
