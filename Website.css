@@ -18,7 +18,7 @@ body{
 #me{
     float: right;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 20px;
+    font-size: 14px;
     margin: 5px;
     border: none;
     border-radius: 5px;
@@ -31,7 +31,7 @@ body{
 #hire{
     float: right;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 20px;
+    font-size: 14px;
     margin: 5px;
     border: none;
     border-radius: 5px;
@@ -44,7 +44,7 @@ body{
 #back{
    float: right;
    font-family:Verdana, Geneva, Tahoma, sans-serif; 
-   font-size: 20px;
+   font-size: 14px;
    margin: 5px;
    border: none;
    border-radius: 5px;
@@ -57,7 +57,7 @@ body{
 #contact{
     float: right;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 20px;
+    font-size: 14px;
     margin: 5px;
     border: none;
     border-radius: 5px;
