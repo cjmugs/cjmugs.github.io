@@ -58,10 +58,13 @@ body{
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 16px;
+    margin: 10px;
 }
 #form1{
     text-align: center;
+    margin: 10px;
 }
 #image{
     text-align: center;
+    margin: 10px;
 }
