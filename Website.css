@@ -13,7 +13,7 @@ body{
     position: relative; top: 120px;
 }
 #para1:hover{
-    color: black;
+    color:rgb(94, 94, 94);
 }
 #me{
     float: right;
@@ -76,7 +76,7 @@ body{
     color: white;
   }
 .hero-text:hover{
-    color: black;
+    color: rgb(94, 94, 94);
 }
 form{
     text-align: center;
@@ -90,5 +90,5 @@ form{
     color: white;
   }
   #info:hover{
-    color: black;
+    color:rgb(94, 94, 94);
 }
