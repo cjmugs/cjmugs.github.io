@@ -75,3 +75,8 @@ body{
     transform: translate(-50%, -50%);
     color: white;
   }
+form{
+    text-align: center;
+    font-size: 20px;
+    position: relative; top: 100px;
+}
