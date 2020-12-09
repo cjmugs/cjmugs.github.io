@@ -140,3 +140,10 @@ form{
       float: none;
     }
   }
+  #and{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: relative; 
+  }
