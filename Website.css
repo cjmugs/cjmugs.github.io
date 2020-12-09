@@ -48,3 +48,6 @@ body{
 #contact:hover{
     background-color: rgb(236, 19, 19);
 }
+#change{
+    text-align: center;
+}
