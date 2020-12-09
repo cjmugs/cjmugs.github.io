@@ -37,7 +37,7 @@ body{
     background-color: rgb(236, 19, 19);
 }
 #contact{
-    float: left;
+    float: right;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 20px;
     border: none;
