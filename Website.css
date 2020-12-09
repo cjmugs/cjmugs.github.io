@@ -54,24 +54,3 @@ body{
 #contact:hover{
     background-color: rgb(236, 19, 19);
 }
-#color{
-    float: center;
-    text-align: center;
-    position: relative; top: 30px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 36px;
-    margin: 10px;
-}
-#change{
-    text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif; 
-    font-size: 36px;
-    margin: 10px;
-}
-#image{
-    text-align: center;
-    position: relative; top: 40px;
-    margin: 10px;
-    height: 320;
-    width: 520;
-}
