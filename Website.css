@@ -30,7 +30,6 @@ body{
    font-size: 20px;
    border: none;
    border-radius: 5px;
-   padding: 5px;
    background-color: white;
    transition-duration: 0.4s;
 }
@@ -43,7 +42,6 @@ body{
     font-size: 20px;
     border: none;
     border-radius: 5px;
-    padding: 5px;
     background-color: white;
     transition-duration: 0.4s;
 }
