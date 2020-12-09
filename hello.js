@@ -6,9 +6,3 @@ document.addEventListener('DOMContentLoaded', function(){
    });
 });
 
-document.addEventListener('DOMContentLoaded', function() {
-    document.querySelector('#form1').onsubmit = function() {
-        const name = document.querySelector('#name').value;
-        alert(`Thank You for visiting my webpage, ${name}!`);
-    };
-});
