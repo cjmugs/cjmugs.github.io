@@ -1,8 +1,8 @@
-document.addEventListener('DOMContentLoaded', function(){
-   document.querySelectorAll('button').forEach(function(button) {
-      button.onclick = function (){
-          document.querySelector('#color').style.color = button.dataset.color;
-      }  
-   });
-});
-
+function rotate() {
+   var x = document.getElementById("rotate");
+   if (x.innerHTML === "Web Programmer") {
+     x.innerHTML = "Web Designer";
+   } else {
+     x.innerHTML = "Web Programmer";
+   }
+ }
