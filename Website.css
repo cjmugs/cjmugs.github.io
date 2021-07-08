@@ -146,3 +146,6 @@ form{
     -webkit-transform: rotateY(360deg);
     transform: rotateY(360deg);
   }
+  #hunt{
+    border: 3px;
+  }
