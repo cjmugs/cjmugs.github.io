@@ -148,4 +148,5 @@ form{
   }
   .hunt{
     border: 5px solid black;
+    border-radius: 3px;
   }
