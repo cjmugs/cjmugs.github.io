@@ -1,0 +1,116 @@
+.header{
+    overflow: hidden;
+    background-color: #9fa8a3;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+.header a {
+    float: left;
+    color: #8b0101;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px; 
+    line-height: 25px;
+    border-radius: 15px;
+    margin: 10px;
+  }
+  header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    background-color: #c5d5cb;
+    color: black;
+  }
+
+  .header a.active {
+    color: #000000;
+  }
+  .header a.active:hover {
+    color: #8b0101;
+    border-radius: 20px;
+  }
+  
+  .header-right {
+    float: right;
+    padding: 3px;
+
+  }
+  
+  @media screen and (max-width: 500px) {
+    .header a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    
+    .header-right {
+      float: none;
+    }
+}
+.body{
+    text-align: center;
+    background-image: linear-gradient( #e3e0cf, #4e4e4b);
+    background-size: 1920px 1980px;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.me{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.projects{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.download{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn1{
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+}
+.thank{
+    text-align: center;
+}
+.thank2{
+    text-align: center;
+}
+.home{
+    text-decoration: none;
+    color: black;
+}
+.cert1{
+    flex: auto;
+    height: 50%;
+    width: 50%;
+    align-items: center;
+}
+.resume{
+    flex: auto;
+    height: 60%;
+    width: 60%;
+    align-items: center;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #9fa8a3;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 15px;
+}
+
+.flex-container > div {
+  margin: 28px;
+  font-size: 30px;
+}

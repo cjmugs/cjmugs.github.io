@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+  	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+  	<meta content="width=device-width,initial-scale=1" name="viewport">
+  	<meta content="description" name="description">
+  	<meta name="google" content="notranslate" />
+
+	<link rel="stylesheet" type="text/css" href="static/style.css">
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+	<title>CM: Download</title>
+</head>
+<header class='header'>
+	<div class="header">
+		<a href="./" class="logo">CM</a>
+		<div class="header-right">
+		  <a href="./" title="" class="active">Home</a>
+		  <a href="./about.html" title="" class="active">About</a>
+		  <a href="./projects.html" title="" class="active"> Projects </a>
+		  <a href="./contact.html" title="" class="active">Contact</a>
+		  <a href="./download.html" class="active" title="">Download</a>
+	</div>
+</header><br>
+	<body class='body'>
+		<h1><span style="font-size:34px; color:#8b0101; font-weight:bold; font-style:italic;">Certificate</span></h1>
+		<div class="cert1">
+		<img class='cert1' src="{{url_for('static', filename='PythonCert.jpg')}}"/>
+		</div>
+		<h1><span style="font-size:34px; color:#8b0101; font-weight:bold; font-style:italic;">Resume</span></h1>
+		<div class="resume">
+		<img class="resume" src="{{url_for('static', filename='Resume.png')}}" alt='Resume'/>
+		</div>
+		<script src='static/script2.js'></script>
+	</body>
+</html>
